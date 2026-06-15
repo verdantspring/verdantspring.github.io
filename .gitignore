@@ -1,0 +1,6 @@
+site/
+build_src/swarm/
+build_src/shots/
+build_src/__pycache__/
+build_src/*.pyc
+build_src/codex_out/_*
